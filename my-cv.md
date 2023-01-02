@@ -1,13 +1,10 @@
 # Michelle Santos Rieper 
-# Computer Engineer
 
-# Contact info
-- **E-mail**: msantosrieper@gmail.com
-- **Phone**: +41 76 464 31 71
-- **LinkedIn**: www.linkedin.com/in/msantosrieper
-- **Address**: Zürichstrasse 70, 8600 Dübendorf ZH. Switzerland.
+_Software engineer based in Zürich 🇨🇭_
 
-# Work experience
+[Email](mailto:msantosrieper@gmail.com) / [LinkedIn](www.linkedin.com/in/msantosrieper/)
+
+# 👩🏼‍💻 Work experience
 
 ## Kotlin and Java developer 
 ### Optravis | Aug 2018 – Jun 2021 | Basel
@@ -64,6 +61,12 @@ During the months I collaborated with the Office of Student Affairs at the Schoo
 - Collaborate with the organisation of academic and social events that took place on the School, such as the Madrid Science Week. My role in the Science Week was to offer a guided tour of the School of Computer Science and Engineering, showing our campus facilities and laboratories where my key objective was to give a first-hand taste of the everyday life on the campus.
 - Help with various office tasks.
 
+# 💬 Languages
+
+🇪🇸 **Spanish**: Native <br>
+🇺🇸 **English**: Fluent <br>
+🇩🇪 **German**: A1 <br>
+
 # Education
 ## Bachelor degree in Computer Engineering
 ### Universidad Politécnica de Madrid | Sep 2014 - Jun 2018 | Madrid
@@ -77,8 +80,3 @@ Modules: Adobe Illustrator and Adobe Photoshop
 ### Calasanz school | Graduated in Jun 2013 | Valencia
 I was consistently named to the Honor Roll (2008-2013) and had graduated with the highest level of academic
 achievement out of all the students in my class.
-
-# Languages 
-- **Spanish**: Native
-- **English**: Fluent
-- **German**: Currently learning
