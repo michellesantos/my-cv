@@ -1,3 +1,6 @@
+# Michelle Santos Rieper 
+# Computer Engineer
+
 # Contact info
 - **E-mail**: msantosrieper@gmail.com
 - **Phone**: +41 76 464 31 71
