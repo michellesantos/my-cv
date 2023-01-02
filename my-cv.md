@@ -2,7 +2,7 @@
 
 _Software engineer based in Zürich 🇨🇭_
 
-[Email](mailto:msantosrieper@gmail.com) / [LinkedIn](www.linkedin.com/in/msantosrieper/)
+[Email](mailto:msantosrieper@gmail.com) / [LinkedIn](https://www.linkedin.com/in/msantosrieper/)
 
 # 👩🏼‍💻 Work experience
 
