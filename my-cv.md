@@ -36,3 +36,17 @@
     - Participate in a little research on why admitted applicants decided to finally not enter the School of Computer Science and Engineering.
     - Investigate, evaluate, and decide which web analytics services (e.g., Google Analytics) was better for our use case.
     - Support the organization and development of academic and social events that took place on School of Computer Science and Engineering’s campus: the annual IT congress TryIT!, Madrid Science Week, the School’s Open Day and the Madrid Education Week.
+    
+# Education
+## Bachelor degree in Computer Engineering
+### Universidad Politécnica de Madrid | Sep 2014 - Jun 2018 | Madrid
+Average grade: 8,55. Graduated with honors in multiple subjects.
+
+## Graphic techniques course
+### CDD, Visual communication and art school | Agu 2013 | Valencia
+Modules: Adobe Illustrator and Adobe Photoshop
+
+## High school diploma
+### Calasanz school | Graduated in Jun 2013 | Valencia
+I was consistently named to the Honor Roll (2008-2013) and had graduated with the highest level of academic
+achievement out of all the students in my class.
