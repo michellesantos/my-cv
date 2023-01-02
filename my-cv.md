@@ -50,3 +50,8 @@ Modules: Adobe Illustrator and Adobe Photoshop
 ### Calasanz school | Graduated in Jun 2013 | Valencia
 I was consistently named to the Honor Roll (2008-2013) and had graduated with the highest level of academic
 achievement out of all the students in my class.
+
+# Languages 
+- **Spanish**: Native
+- **English**: Fluent
+- **German**: Currently learning
