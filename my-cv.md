@@ -7,7 +7,7 @@ _Software engineer based in Zürich 🇨🇭_
 # 👩🏼‍💻 Work experience
 
 **Software Engineer** @ [Optravis](https://www.optravis.com) <br>
-🗓 Aug 2018 – Jun 2021 | 🇨🇭 Basel <br>
+_🗓 Aug 2018 – Jun 2021 | 🇨🇭 Basel_ <br>
 
 - Tech: Kotlin, Java, JUnit, Spek framework, JavaFX, Swing, Google Cloud, GitHub, MySQL, Gradle
 - Operating system: Windows.
