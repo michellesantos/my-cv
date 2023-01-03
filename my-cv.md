@@ -10,13 +10,27 @@ _Software engineer based in Zürich 🇨🇭_
 🗓 Jun 2021 – Present <br>
 🇨🇭 Zürich <br>
 
-- Tech: Kotlin, Java, JUnit.
+- **Technologies used**: <br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
 **Software Engineer** @ [Optravis](https://www.optravis.com) <br>
 🗓 Aug 2018 – Jun 2021 <br>
 🇨🇭 Basel <br>
 
-- Tech: Kotlin, Java, JUnit, Spek framework, JavaFX, Swing, Google Cloud, GitHub, MySQL, Gradle.
+- **Technologies used**: <br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
+![Spek](https://img.shields.io/badge/Spek-7F52FF?&style=flat&logo=kotlin&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white)
+
 - Duties and functions:
     - Develop new features and maintenance of a transfer pricing management tool.
     - Develop new data reconciliation tool to be used during and after the development of high-risk features.
@@ -29,7 +43,19 @@ _Software engineer based in Zürich 🇨🇭_
 🗓 May 2017 – Dec 2017 <br>
 🇪🇸 Madrid <br>
 
-- Tech: Docker, Openshift, Java, Spring Boot, Redis, InfluxDB, MySQL, Outlook and Google API, Jira API, Grafana.
+- **Technologies used**: <br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Jira API](https://img.shields.io/badge/Jira%20API-0052CC?style=flat&logo=jirasoftware&logoColor=white)
+![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white)
+![Outlook API](https://img.shields.io/badge/Outlook%20API-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
+  
 - Duties and functions:
     - Design and develop several Spring Boot microservices and REST services on Java usually integrated with databases such as Redis, InfluxDB or MySQL.
     - Develop a distributed notification service capable to interact with an Outlook Business Email account and with Jira software for issues tracking, bugs tracking and project management functions.
@@ -42,7 +68,11 @@ _Software engineer based in Zürich 🇨🇭_
 🗓 Sept 2017 – Jun 2018 <br>
 🇪🇸 Madrid <br>
 
-- Tech: Adobe Illustrator, Adobe Photoshop, Microsoft Suite.
+- **Technologies used**: <br>
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Microsoft Office Suite](https://img.shields.io/badge/Microsoft%20Office%20Suite-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+  
 During the year I collaborated with the Students’ Guild at the School of Computer Science and Engineering my duties and functions were:
 - Graphic designer at the IX RISTI Congress. My main tasks included designing:
     − Marketing flyers and posters in order to promote the congress, both for web and printing.
