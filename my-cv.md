@@ -6,12 +6,17 @@ _Software engineer based in Zürich 🇨🇭_
 
 # 👩🏼‍💻 Work experience
 
+**Professional Software Engineer** @ [ti&m](https://www.ti8m.com) <br>
+🗓 Jun 2021 – Present <br>
+🇨🇭 Zürich <br>
+
+- Tech: Kotlin, Java, JUnit.
+
 **Software Engineer** @ [Optravis](https://www.optravis.com) <br>
 🗓 Aug 2018 – Jun 2021 <br>
 🇨🇭 Basel <br>
 
-- Tech: Kotlin, Java, JUnit, Spek framework, JavaFX, Swing, Google Cloud, GitHub, MySQL, Gradle
-- Operating system: Windows.
+- Tech: Kotlin, Java, JUnit, Spek framework, JavaFX, Swing, Google Cloud, GitHub, MySQL, Gradle.
 - Duties and functions:
     - Develop new features and maintenance of a transfer pricing management tool.
     - Develop new data reconciliation tool to be used during and after the development of high-risk features.
@@ -25,7 +30,6 @@ _Software engineer based in Zürich 🇨🇭_
 🇪🇸 Madrid <br>
 
 - Tech: Docker, Openshift, Java, Spring Boot, Redis, InfluxDB, MySQL, Outlook and Google API, Jira API, Grafana.
-- Operating system: Linux.
 - Duties and functions:
     - Design and develop several Spring Boot microservices and REST services on Java usually integrated with databases such as Redis, InfluxDB or MySQL.
     - Develop a distributed notification service capable to interact with an Outlook Business Email account and with Jira software for issues tracking, bugs tracking and project management functions.
