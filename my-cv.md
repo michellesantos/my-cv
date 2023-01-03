@@ -70,14 +70,14 @@ During the months I collaborated with the Office of Student Affairs at the Schoo
 🇩🇪 **German**: A1 <br>
 
 # 👩🏼‍🎓 Education
-**Bachelor degree in Computer Science** @ [Universidad Politécnica de Madrid](https://www.upm.es/internacional)
-🗓 Sep 2014 - Jun 2018 | 🇪🇸 Madrid
+**Bachelor degree in Computer Science** @ [Universidad Politécnica de Madrid](https://www.upm.es/internacional) <br>
+🗓 Sep 2014 - Jun 2018 | 🇪🇸 Madrid <br>
 Average grade: 8,55/10. Graduated with honors in multiple subjects.
 
-**Graphic techniques course** @ [CDD, Visual communication and art school](https://www.institutocreativodigital.com)
-🗓 Agu 2013 | 🇻🇪 Valencia
+**Graphic techniques course** @ [CDD, Visual communication and art school](https://www.institutocreativodigital.com) <br>
+🗓 Agu 2013 | 🇻🇪 Valencia <br>
 Modules: Adobe Illustrator and Adobe Photoshop.
 
-**High school diploma** @ [Colegio Calasanz](https://www.colegiocalasanz.com.ve)
-🗓 Jun 2013 | 🇻🇪 Valencia
+**High school diploma** @ [Colegio Calasanz](https://www.colegiocalasanz.com.ve) <br>
+🗓 Jun 2013 | 🇻🇪 Valencia <br>
 Graduated with an average of 20/20 and formed part of the honor roll from 2008 to 2013.
