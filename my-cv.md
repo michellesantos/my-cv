@@ -6,8 +6,8 @@ _Software engineer based in Zürich 🇨🇭_
 
 # 👩🏼‍💻 Work experience
 
-**Software Engineer** @ [Optravis](https://www.optravis.com) <br>
-_🗓 Aug 2018 – Jun 2021 | 🇨🇭 Basel_ <br>
+**Software Engineer** @ [Optravis](https://www.optravis.com) _(Aug 2018 – Jun 2021)_  <br>
+🇨🇭 Basel <br>
 
 - Tech: Kotlin, Java, JUnit, Spek framework, JavaFX, Swing, Google Cloud, GitHub, MySQL, Gradle
 - Operating system: Windows.
@@ -20,7 +20,8 @@ _🗓 Aug 2018 – Jun 2021 | 🇨🇭 Basel_ <br>
     - Provide a high level of customer support to remote clients using a support e-ticketing system and support and training to new employees.
  
 **Microservice developer apprentice** @ [Produban](https://santandergto.com/en/) <br>
-🗓 May 2017 – Dec 2017 | 🇪🇸 Madrid <br>
+🗓 May 2017 – Dec 2017 <br>
+🇪🇸 Madrid <br>
 
 - Tech: Docker, Openshift, Java, Spring Boot, Redis, InfluxDB, MySQL, Outlook and Google API, Jira API, Grafana.
 - Operating system: Linux.
