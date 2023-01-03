@@ -6,7 +6,8 @@ _Software engineer based in Zürich 🇨🇭_
 
 # 👩🏼‍💻 Work experience
 
-**Software Engineer** @ [Optravis](https://www.optravis.com) _(Aug 2018 – Jun 2021)_  <br>
+**Software Engineer** @ [Optravis](https://www.optravis.com) <br>
+🗓 Aug 2018 – Jun 2021 <br>
 🇨🇭 Basel <br>
 
 - Tech: Kotlin, Java, JUnit, Spek framework, JavaFX, Swing, Google Cloud, GitHub, MySQL, Gradle
@@ -34,7 +35,8 @@ _Software engineer based in Zürich 🇨🇭_
 # 👩🏼‍🏫 Internships
  
 **Intern** @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
-🗓 Sept 2017 – Jun 2018 | 🇪🇸 Madrid <br>
+🗓 Sept 2017 – Jun 2018 <br>
+🇪🇸 Madrid <br>
 
 - Tech: Adobe Illustrator, Adobe Photoshop, Microsoft Suite.
 During the year I collaborated with the Students’ Guild at the School of Computer Science and Engineering my duties and functions were:
@@ -49,7 +51,8 @@ During the year I collaborated with the Students’ Guild at the School of Compu
 - Help with various office tasks.
 
 **Intern** @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
-🗓 Sept 2016 – Jan 2017 | 🇪🇸 Madrid <br>
+🗓 Sept 2016 – Jan 2017 <br>
+🇪🇸 Madrid <br>
 
 During my second consecutive year collaborating with the Office of Student Affairs at the School of Computer Science and Engineering my duties and functions were:
 - Participate in a little research on why admitted applicants decided to finally not enter the School of Computer Science and Engineering.
@@ -57,7 +60,8 @@ During my second consecutive year collaborating with the Office of Student Affai
 - Help with various office tasks.
 
 **Intern** @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
-🗓 Sept 2015 – Jan 2016 | 🇪🇸 Madrid <br>
+🗓 Sept 2015 – Jan 2016 <br>
+🇪🇸 Madrid <br>
 
 During the months I collaborated with the Office of Student Affairs at the School of Computer Science and Engineering my duties and functions were:
 - Investigate and evaluate several web analytics services, such as Google Analytics. This was my main role during the internship and the aim of the investigation was compare some web analytics services in order to decide which one was better for our use case.
@@ -72,13 +76,16 @@ During the months I collaborated with the Office of Student Affairs at the Schoo
 
 # 👩🏼‍🎓 Education
 **Bachelor degree in Computer Science** @ [Universidad Politécnica de Madrid](https://www.upm.es/internacional) <br>
-🗓 Sep 2014 - Jun 2018 | 🇪🇸 Madrid <br>
+🗓 Sep 2014 - Jun 2018 <br>
+🇪🇸 Madrid <br>
 Average grade: 8,55/10. Graduated with honors in multiple subjects.
 
 **Graphic techniques course** @ [CDD, Visual communication and art school](https://www.institutocreativodigital.com) <br>
-🗓 Agu 2013 | 🇻🇪 Valencia <br>
+🗓 Agu 2013 <br>
+🇻🇪 Valencia <br>
 Modules: Adobe Illustrator and Adobe Photoshop.
 
 **High school diploma** @ [Colegio Calasanz](https://www.colegiocalasanz.com.ve) <br>
-🗓 Jun 2013 | 🇻🇪 Valencia <br>
+🗓 Jun 2013 <br>
+🇻🇪 Valencia <br>
 Graduated with an average of 20/20 and formed part of the honor roll from 2008 to 2013.
