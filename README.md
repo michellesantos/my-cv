@@ -6,10 +6,8 @@ _Software engineer based in Zürich 🇨🇭_
 
 # 👩🏼‍💻 Work experience
 
-**Professional Software Engineer** @ [ti&m](https://www.ti8m.com) <br>
-
-* * *
-
+#### Professional Software Engineer @ [ti&m](https://www.ti8m.com) <br>
+___
 🗓 Jun 2021 – Present <br>
 🇨🇭 Zürich <br>
 
@@ -20,7 +18,7 @@ _Software engineer based in Zürich 🇨🇭_
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
 </p>
 
-### Software Engineer @ [Optravis](https://www.optravis.com) <br>
+#### Software Engineer @ [Optravis](https://www.optravis.com) <br>
 ___
 🗓 Aug 2018 – Jun 2021 <br>
 🇨🇭 Basel <br>
@@ -45,7 +43,7 @@ ___
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
 </p>
 
-### Microservice developer apprentice @ [Produban](https://santandergto.com/en/) <br>
+#### Microservice developer apprentice @ [Produban](https://santandergto.com/en/) <br>
 ___
 🗓 May 2017 – Dec 2017 <br>
 🇪🇸 Madrid <br>
@@ -71,8 +69,8 @@ ___
 </p>
 
 # 👩🏼‍🏫 Internships
- 
-### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+
+#### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
 ___
 🗓 Sept 2017 – Jun 2018 <br>
 🇪🇸 Madrid <br>
@@ -94,7 +92,7 @@ During the year I collaborated with the Students’ Guild at the School of Compu
   <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
 </p>
 
-### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+#### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
 ___
 🗓 Sept 2016 – Jan 2017 <br>
 🇪🇸 Madrid <br>
@@ -104,7 +102,7 @@ During my second consecutive year collaborating with the Office of Student Affai
 - Collaborate with the organisation of academic and social events that took place on the School, such as the Madrid Science Week. My role in the Science Week was to offer a guided tour of the School of Computer Science and Engineering, showing our campus facilities and laboratories where my key objective was to give a first-hand taste of the everyday life on the campus.
 - Help with various office tasks.
 
-### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+#### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
 ___
 🗓 Sept 2015 – Jan 2016 <br>
 🇪🇸 Madrid <br>
