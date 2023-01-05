@@ -7,7 +7,7 @@ _Software engineer based in Zürich 🇨🇭_
 # 👩🏼‍💻 Work experience
 
 **Professional Software Engineer** @ [ti&m](https://www.ti8m.com) <br>
-___
+___ <br>
 🗓 Jun 2021 – Present <br>
 🇨🇭 Zürich <br>
 
