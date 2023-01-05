@@ -6,30 +6,20 @@ _Software engineer based in Zürich 🇨🇭_
 
 # 👩🏼‍💻 Work experience
 
-**Professional Software Engineer** @ [ti&m](https://www.ti8m.com) <br>
+### Professional Software Engineer @ [ti&m](https://www.ti8m.com) <br>
 🗓 Jun 2021 – Present <br>
 🇨🇭 Zürich <br>
 
-- **Technologies used**: <br>
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+</p>
 
-**Software Engineer** @ [Optravis](https://www.optravis.com) <br>
+### Software Engineer @ [Optravis](https://www.optravis.com) <br>
 🗓 Aug 2018 – Jun 2021 <br>
 🇨🇭 Basel <br>
-
-- **Technologies used**: <br>
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
-![Spek](https://img.shields.io/badge/Spek-7F52FF?&style=flat&logo=kotlin&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white)
 
 - Duties and functions:
     - Develop new features and maintenance of a transfer pricing management tool.
@@ -38,41 +28,49 @@ _Software engineer based in Zürich 🇨🇭_
     - Harmonise client’s data to meet up with the expected format and quality to be used in the application.
     - Use debugging skills to improve the quality of code and contribute to improve user experience of the software.
     - Provide a high level of customer support to remote clients using a support e-ticketing system and support and training to new employees.
- 
-**Microservice developer apprentice** @ [Produban](https://santandergto.com/en/) <br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spek-7F52FF?&style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+</p>
+
+### Microservice developer apprentice @ [Produban](https://santandergto.com/en/) <br>
 🗓 May 2017 – Dec 2017 <br>
 🇪🇸 Madrid <br>
 
-- **Technologies used**: <br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Jira API](https://img.shields.io/badge/Jira%20API-0052CC?style=flat&logo=jirasoftware&logoColor=white)
-![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white)
-![Outlook API](https://img.shields.io/badge/Outlook%20API-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
-  
 - Duties and functions:
     - Design and develop several Spring Boot microservices and REST services on Java usually integrated with databases such as Redis, InfluxDB or MySQL.
     - Develop a distributed notification service capable to interact with an Outlook Business Email account and with Jira software for issues tracking, bugs tracking and project management functions.
     - Design and maintenance of Grafana dashboards.
     - Work with enterprise PaaS such as Openshift and platforms like Docker.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira%20API-0052CC?style=flat&logo=jirasoftware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook%20API-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" />
+</p>
+
 # 👩🏼‍🏫 Internships
  
-**Intern** @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
 🗓 Sept 2017 – Jun 2018 <br>
 🇪🇸 Madrid <br>
 
-- **Technologies used**: <br>
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Microsoft Office Suite](https://img.shields.io/badge/Microsoft%20Office%20Suite-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-  
 During the year I collaborated with the Students’ Guild at the School of Computer Science and Engineering my duties and functions were:
 - Graphic designer at the IX RISTI Congress. My main tasks included designing:
     − Marketing flyers and posters in order to promote the congress, both for web and printing.
@@ -84,7 +82,13 @@ During the year I collaborated with the Students’ Guild at the School of Compu
     − Help with the organisation of TryIT!, an IT congress that takes place on the School's campus, with different tasks such as help with the attendees' check-in.
 - Help with various office tasks.
 
-**Intern** @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
+</p>
+
+### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
 🗓 Sept 2016 – Jan 2017 <br>
 🇪🇸 Madrid <br>
 
@@ -93,7 +97,7 @@ During my second consecutive year collaborating with the Office of Student Affai
 - Collaborate with the organisation of academic and social events that took place on the School, such as the Madrid Science Week. My role in the Science Week was to offer a guided tour of the School of Computer Science and Engineering, showing our campus facilities and laboratories where my key objective was to give a first-hand taste of the everyday life on the campus.
 - Help with various office tasks.
 
-**Intern** @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
 🗓 Sept 2015 – Jan 2016 <br>
 🇪🇸 Madrid <br>
 
