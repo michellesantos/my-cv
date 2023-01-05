@@ -6,7 +6,8 @@ _Software engineer based in Zürich 🇨🇭_
 
 # 👩🏼‍💻 Work experience
 
-## Professional Software Engineer @ [ti&m](https://www.ti8m.com) <br>
+### Professional Software Engineer @ [ti&m](https://www.ti8m.com) <br>
+___
 🗓 Jun 2021 – Present <br>
 🇨🇭 Zürich <br>
 
@@ -18,6 +19,7 @@ _Software engineer based in Zürich 🇨🇭_
 </p>
 
 ### Software Engineer @ [Optravis](https://www.optravis.com) <br>
+___
 🗓 Aug 2018 – Jun 2021 <br>
 🇨🇭 Basel <br>
 
@@ -42,6 +44,7 @@ _Software engineer based in Zürich 🇨🇭_
 </p>
 
 ### Microservice developer apprentice @ [Produban](https://santandergto.com/en/) <br>
+___
 🗓 May 2017 – Dec 2017 <br>
 🇪🇸 Madrid <br>
 
@@ -68,6 +71,7 @@ _Software engineer based in Zürich 🇨🇭_
 # 👩🏼‍🏫 Internships
  
 ### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+___
 🗓 Sept 2017 – Jun 2018 <br>
 🇪🇸 Madrid <br>
 
@@ -89,6 +93,7 @@ During the year I collaborated with the Students’ Guild at the School of Compu
 </p>
 
 ### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+___
 🗓 Sept 2016 – Jan 2017 <br>
 🇪🇸 Madrid <br>
 
@@ -98,6 +103,7 @@ During my second consecutive year collaborating with the Office of Student Affai
 - Help with various office tasks.
 
 ### Intern @ [Universidad Politécnica de Madrid | Office of Student Affairs](https://www.upm.es/internacional) <br>
+___
 🗓 Sept 2015 – Jan 2016 <br>
 🇪🇸 Madrid <br>
 
