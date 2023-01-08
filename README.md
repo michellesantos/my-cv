@@ -1,9 +1,3 @@
-# Michelle Santos Rieper 
-
-_Software engineer based in Zürich 🇨🇭_
-
-[Email](mailto:msantosrieper@gmail.com) / [LinkedIn](https://www.linkedin.com/in/msantosrieper/)
-
 # 👩🏼‍💻 Work experience
 
 #### Professional Software Engineer @ [ti&m](https://www.ti8m.com) <br>
